@@ -1,0 +1,6 @@
+LINK:
+-----
+
+Code: https://colab.research.google.com/drive/1M-SfsmEQfTHuvkuQXbKlEvjoOggff1e4?usp=sharing
+
+Google Slide: https://docs.google.com/presentation/d/1gfgtYlEr9lCbtuH_P_M8YtblFIeaPVdTBmkdoAZnV7k/edit?usp=sharing
